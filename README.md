@@ -1,5 +1,7 @@
 WIP
+
 Updating the game to run on Godot vr. 4.2.1-1
+
 Not working yet
 
 The code, and only the code is licensed under the MIT license. You are only allowed to use the assets and music in this repository under the condition that the purpose you're using them is related to the game. This can be forks, modifications, and translations. 
